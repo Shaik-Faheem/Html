@@ -1,1 +1,1 @@
-I need to improve my selfr as a frontend developer
+I need to improve my self as a frontend developer
